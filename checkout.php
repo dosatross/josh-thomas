@@ -105,15 +105,15 @@
 								<label>
 									Credit Card: 
 								</label>
-								<input type='text' id="creditcard" name="creditcard" onkeyup="requestCreditCardValidationMessage()" required /> 
+								<input type='text' id="creditcard" name="creditcard" onchange="requestCreditCardValidationMessage()" required /> 
 								<label id="expiryLabel">
 									Expiry:
 								</label>
 								M:
-								<input class="expiry" id='expiryMonth' name='expiryMonth' type='number' min='1' max='12' onkeyup='requestExpiryValidationMessage()' required />
+								<input class="expiry" id='expiryMonth' name='expiryMonth' type='number' min='1' max='12' onchange='requestExpiryValidationMessage()' required />
 								Y:
 
-								<input class="expiry" id='expiryYear' name='expiryYear' min='0' type='number' onkeyup='requestExpiryValidationMessage()' required/> 
+								<input class="expiry" id='expiryYear' name='expiryYear' min='0' type='number' onchange='requestExpiryValidationMessage()' required/> 
 							
 						
 							</p>
