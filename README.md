@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Josh Thomas - Personal Website
 
 A demonstration of web programming techniques applied to a personal website for Josh Thomas.
@@ -91,4 +90,3 @@ http://www.the-art-of-web.com/javascript/validate/3/
 
 luhn algorithm for php:
 http://adrianotto.com/2011/10/better-luhn-formula-validator-for-php/
->>>>>>> 319d6fe64009bcf8102fbf16611ebdbd1941de2c
