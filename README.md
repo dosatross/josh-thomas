@@ -65,28 +65,3 @@ Pictures:
 [Luhn algorithm for php](http://adrianotto.com/2011/10/better-luhn-formula-validator-for-php/)
 
 [Embedded Tweets](https://publish.twitter.com/?url=https%3A%2F%2Ftwitter.com%2FTwitterDev#)
-=======
-#Josh Thomas Personal Website
-
-Icons: https://genericons.com/
-Itunes: http://www.apple.com/itunes/marketing-on-itunes/identity-guidelines.html#itunes-badge
-Google play: https://play.google.com/intl/en_us/badges/
-
-embedded tweets: https://publish.twitter.com/?url=https%3A%2F%2Ftwitter.com%2FTwitterDev#
-
-pictures:
-http://tvseriesfinale.com/wp-content/uploads/2015/10/PleaseLikeMe_840x529.jpg
-http://s.sidereel.com/cms/posts/306628/large/Please-Like-Me-550x323.jpg
-http://www.takepart.com/sites/default/files/PLM_1200x627_Gen.jpg
-http://www.abc.net.au/tv/programs/img/PleaseLikeMe_ProgrammingPage.jpg
-profile
-http://www.theweeklyreview.com.au/wp-content/uploads/2015/11/Josh-Thomas-TWR-650x433.jpg
-
-home page description: 
-http://www.takepart.com/pivot/please-like-me
-
-luhn algorithm for javascript: 
-http://www.the-art-of-web.com/javascript/validate/3/
-
-luhn algorithm for php:
-http://adrianotto.com/2011/10/better-luhn-formula-validator-for-php/
